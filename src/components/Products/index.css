@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.cart-img {
+  height: 220px;
+  width: 220px;
+}
+
+.link-item {
+  text-decoration: none;
+}
